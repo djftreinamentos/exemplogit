@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: burlywood;
+}
+
+.painel{
+    border:5px solid purple;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+}
+
+p{
+    color:yellow;
+}
